@@ -1,0 +1,3 @@
+[submodule "extensions/Markdown"]
+	path = extensions/Markdown
+	url = https://github.com/mm-xp/mw-markdown.git
