@@ -2,4 +2,4 @@
 
 db:
    type: mariadb:10.2
-   disk: 2048
+   disk: 1024
